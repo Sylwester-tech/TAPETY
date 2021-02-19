@@ -1,0 +1,5 @@
+step 1: conda install -c anaconda ephemstep 
+
+2:conda install -c conda-forge pystanstep 
+
+3: conda install -c conda-forge fbprophet
